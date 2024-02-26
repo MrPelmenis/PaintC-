@@ -2,9 +2,9 @@ D:\JsPojects\Paint\PaintC-\Paint\Paint\bin\Debug\Paint.exe.config
 D:\JsPojects\Paint\PaintC-\Paint\Paint\bin\Debug\Paint.exe
 D:\JsPojects\Paint\PaintC-\Paint\Paint\bin\Debug\Paint.pdb
 D:\JsPojects\Paint\PaintC-\Paint\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
-D:\JsPojects\Paint\PaintC-\Paint\Paint\obj\Debug\Paint.Paint.resources
 D:\JsPojects\Paint\PaintC-\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
 D:\JsPojects\Paint\PaintC-\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
 D:\JsPojects\Paint\PaintC-\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
 D:\JsPojects\Paint\PaintC-\Paint\Paint\obj\Debug\Paint.exe
 D:\JsPojects\Paint\PaintC-\Paint\Paint\obj\Debug\Paint.pdb
+D:\JsPojects\Paint\PaintC-\Paint\Paint\obj\Debug\Paint.Paint.resources

@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{F0A10B8A-A471-4C37-B332-5F8B673DA3E1}|Paint\\Paint.csproj|solutionrelative:paint\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0A10B8A-A471-4C37-B332-5F8B673DA3E1}|Paint\\Paint.csproj|d:\\jspojects\\paint\\paintc-\\paint\\paint\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F0A10B8A-A471-4C37-B332-5F8B673DA3E1}|Paint\\Paint.csproj|D:\\JsPojects\\Paint\\PaintC-\\Paint\\paint\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F0A10B8A-A471-4C37-B332-5F8B673DA3E1}|Paint\\Paint.csproj|solutionrelative:paint\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,22 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\JsPojects\\Paint\\PaintC-\\Paint\\Paint\\Form1.cs",
-              "RelativeDocumentMoniker": "Paint\\Form1.cs",
-              "ToolTip": "D:\\JsPojects\\Paint\\PaintC-\\Paint\\Paint\\Form1.cs",
-              "RelativeToolTip": "Paint\\Form1.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAWwHIAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T13:19:09.134Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -43,8 +29,21 @@
               "ToolTip": "D:\\JsPojects\\Paint\\PaintC-\\Paint\\Paint\\Form1.cs [Design]",
               "RelativeToolTip": "Paint\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T13:10:58.198Z",
+              "WhenOpened": "2024-02-25T11:46:28.968Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\JsPojects\\Paint\\PaintC-\\Paint\\Paint\\Form1.cs",
+              "RelativeDocumentMoniker": "Paint\\Form1.cs",
+              "ToolTip": "D:\\JsPojects\\Paint\\PaintC-\\Paint\\Paint\\Form1.cs",
+              "RelativeToolTip": "Paint\\Form1.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAowH8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T13:19:09.134Z",
+              "EditorCaption": ""
             }
           ]
         }
